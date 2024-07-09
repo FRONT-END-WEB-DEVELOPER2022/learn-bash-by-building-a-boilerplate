@@ -126,3 +126,4 @@ find
 mv roboto.woff fonts
 mv lato.ttf fonts
 mv menlo.otf fonts
+find

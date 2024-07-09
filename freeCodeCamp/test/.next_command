@@ -180,3 +180,6 @@ mkdir website
 ls --color=auto
 cd website
 find
+cd client
+mkdir client
+cd client

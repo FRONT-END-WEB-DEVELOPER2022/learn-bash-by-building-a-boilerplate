@@ -140,3 +140,43 @@ find --help
 find -name index.html
 find -name styles.css
 find -name src
+ls --color=auto -l
+ls --color=auto -1
+ls --color=auto --all
+find website
+cd website
+cd FreeCodeCamp
+find
+find
+find
+cd website
+cd FreeCodeCamp
+clear
+cd project
+cd website
+pwd website
+cd project
+cd FreeCodeCamp
+cd /workspace/project/website
+clear
+cd /workspace/project/website
+find
+find website
+pwd
+ls --color=auto
+cd freeCodeCamp
+ls --color=auto
+cd website
+cd node_modules
+ls --color=auto
+cd website
+cd ..
+ls --color=auto
+cd project
+cd ..
+ls --color=auto website
+ls --color=auto
+mkdir website
+ls --color=auto
+cd website
+find
